@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ffbf60-0d7f-4f26-b651-7450b8ee681d" name="Changes" comment="Completed the assignment using more visuals, adding a linear regression and also checking MAE, MSE, RMSE and R^2. Still lacking a little.">
+    <list default="true" id="05ffbf60-0d7f-4f26-b651-7450b8ee681d" name="Changes" comment="The model didnt train properly, we need to check why :/">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,10 @@
       <workItem from="1759819449437" duration="2394000" />
       <workItem from="1760127842572" duration="76000" />
       <workItem from="1760635688196" duration="769000" />
-      <workItem from="1760713390016" duration="322000" />
+      <workItem from="1760713390016" duration="3475000" />
+      <workItem from="1761637813643" duration="35000" />
+      <workItem from="1761662792121" duration="64000" />
+      <workItem from="1761899010467" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="Completed the assignment using more visuals, adding a linear regression and also checking MAE, MSE, RMSE and R^2. Still lacking a little.">
       <option name="closed" value="true" />
@@ -103,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760636386619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Started Lab2">
+      <option name="closed" value="true" />
+      <created>1760714065962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760714065962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The model didnt train properly, we need to check why :/">
+      <option name="closed" value="true" />
+      <created>1760715849741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760715849741</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +132,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Completed the assignment using more visuals, adding a linear regression and also checking MAE, MSE, RMSE and R^2. Still lacking a little." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the assignment using more visuals, adding a linear regression and also checking MAE, MSE, RMSE and R^2. Still lacking a little." />
+    <MESSAGE value="Started Lab2" />
+    <MESSAGE value="The model didnt train properly, we need to check why :/" />
+    <option name="LAST_COMMIT_MESSAGE" value="The model didnt train properly, we need to check why :/" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
