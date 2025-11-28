@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ffbf60-0d7f-4f26-b651-7450b8ee681d" name="Changes" comment="Lab2 final">
+    <list default="true" id="05ffbf60-0d7f-4f26-b651-7450b8ee681d" name="Changes" comment="Added all the lectures.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
     </list>
@@ -101,7 +101,9 @@
       <workItem from="1761918772240" duration="210000" />
       <workItem from="1761919006995" duration="273000" />
       <workItem from="1761926705971" duration="1101000" />
-      <workItem from="1762119596344" duration="983000" />
+      <workItem from="1762119596344" duration="1394000" />
+      <workItem from="1763135696264" duration="1205000" />
+      <workItem from="1764077095367" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="Completed the assignment using more visuals, adding a linear regression and also checking MAE, MSE, RMSE and R^2. Still lacking a little.">
       <option name="closed" value="true" />
@@ -143,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761919115825</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1st attempt at Lab3, will keep trying to improve metrics">
+      <option name="closed" value="true" />
+      <created>1762122412092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762122412092</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added requirement paper">
+      <option name="closed" value="true" />
+      <created>1762122498442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762122498442</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added all the lectures.">
+      <option name="closed" value="true" />
+      <created>1762122582834</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762122582834</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +182,10 @@
     <MESSAGE value="The model didnt train properly, we need to check why :/" />
     <MESSAGE value="The models look a little too good, might need further checks to understand why." />
     <MESSAGE value="Lab2 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2 final" />
+    <MESSAGE value="1st attempt at Lab3, will keep trying to improve metrics" />
+    <MESSAGE value="Added requirement paper" />
+    <MESSAGE value="Added all the lectures." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all the lectures." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
